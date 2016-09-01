@@ -1,0 +1,8 @@
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestCode\TestCode\bin\Debug\TestCode.exe.config
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestCode\TestCode\bin\Debug\TestCode.exe
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestCode\TestCode\bin\Debug\TestCode.pdb
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestCode\TestCode\obj\Debug\TestCode.csprojResolveAssemblyReference.cache
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestCode\TestCode\obj\Debug\TestCode.exe
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestCode\TestCode\obj\Debug\TestCode.pdb
+C:\Users\mhorowitzgelb\Documents\Visual Studio 2013\Projects\TestCode\TestCode\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\mhorowitzgelb\Documents\Visual Studio 2013\Projects\TestCode\TestCode\bin\Debug\GraphVizWrapper.dll

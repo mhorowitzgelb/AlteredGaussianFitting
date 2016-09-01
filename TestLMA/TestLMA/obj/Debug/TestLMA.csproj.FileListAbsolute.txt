@@ -1,0 +1,12 @@
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestLMA\TestLMA\bin\Debug\TestLMA.exe.config
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestLMA\TestLMA\obj\Debug\TestLMA.csprojResolveAssemblyReference.cache
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestLMA\TestLMA\bin\Debug\TestLMA.exe
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestLMA\TestLMA\bin\Debug\TestLMA.pdb
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestLMA\TestLMA\bin\Debug\LMA.dll
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestLMA\TestLMA\bin\Debug\GeneralMatrix.dll
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestLMA\TestLMA\bin\Debug\nunit.framework.dll
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestLMA\TestLMA\bin\Debug\LMA.pdb
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestLMA\TestLMA\bin\Debug\GeneralMatrix.pdb
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestLMA\TestLMA\bin\Debug\nunit.framework.xml
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestLMA\TestLMA\obj\Debug\TestLMA.exe
+c:\users\mhorowitzgelb\documents\visual studio 2013\Projects\TestLMA\TestLMA\obj\Debug\TestLMA.pdb
